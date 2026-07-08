@@ -1,4 +1,6 @@
 # Smart-Automation-System-Using-AI-for-safety-damage-assement-and-Traffic-Regulation-Compilance
+
+#Introductory Part
 This project present an advance smart automative system that Artifical Intelligence, Machine Learning, Deep Learning, Nartural Languages Programing and Internet of Thinks technologies to enchance vehicle safety security, and operational intelligence. The system is designed to monitor analayse and ensure compliance with traffic regulations, while providing the real time insigth into vehicle conditions and driver behaviour, effectively capturing the essesence of intelligence and responsible transporations.
 The system integrated multiple advance feactures, including :
   1. Vehicle Damage Detection and severity estimation using Deep Learning model (CNN,YOLO).
