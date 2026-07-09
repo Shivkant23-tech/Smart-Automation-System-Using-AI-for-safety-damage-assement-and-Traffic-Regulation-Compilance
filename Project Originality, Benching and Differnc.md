@@ -10,7 +10,7 @@
       1. Used by combines like Tesla, BMW, Merecedes-Benz.
       2. Feactures : Lane assit, collasion detection autopilot.
       3. Limitation :Primarily focuses on driven assiatance, not fully vehicle system monitoring.
-  # ** IoT-Based Vehicle Monitoring System**
+  # **IoT-Based Vehicle Monitoring System**
       1. Provide GPS tracking, fuel monitoring, and basic analytical.
       2. Limitation : Feacture-specfic, Lack intelligent, decision-making capabilities.
   # **AI-Based Driven Monitoring System**
