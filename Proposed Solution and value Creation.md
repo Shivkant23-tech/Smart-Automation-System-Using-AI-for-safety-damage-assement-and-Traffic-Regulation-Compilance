@@ -23,3 +23,13 @@ The proposed smart Automative system delives a compreshensive system. By integra
   5. Traffic Rules Compliance (Signal, speed, lane).
   6. Driver Behaviour Monitoring and unauthorized access Detection.
   7. AI chatbot (Voice/Text Interaction using NLP).
+
+# **Advance Funtionality**
+  1. Predictive Maintance :- Predict components failures before breakdown.
+                             Reduced unexpected repair cost.
+  2. Anomaly Detection :- Detect unsual driving or system.
+                          Identify potential threats or faults.
+  3. Continous Learning :- Models improvement with new datas.
+                           Higher accuracy overtime.
+  4. Smart Dashboard :- Live vehicle Dashboard.
+                        Data visualization and report.
