@@ -24,7 +24,7 @@ The proposed smart Automative system isd design to deliver significant improveme
       1. Real-time anaylsis provide actionable insights.
       2. Helps in improving driving pattern and system perforamnce.
       
-# ** Impact on current Situation **
+# Impact on current Situation
   # Before Impleamentation:
     1. Manual monitoring with high chances of human error.
     2. Delayed damage detection and response.
