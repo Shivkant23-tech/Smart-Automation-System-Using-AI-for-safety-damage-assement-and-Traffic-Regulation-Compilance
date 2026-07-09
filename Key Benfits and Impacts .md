@@ -36,7 +36,7 @@ The proposed smart Automative system isd design to deliver significant improveme
     3. Strong enforcment of traffic laws using smart system.
     4. Predictive and preventing maintance capabilites.
 
-# ** Overall Impact **
+#**Overall Impact**
   1. Safer Roads :- Signficant reduction in accident and injuires.
   2. Smart Vehicles :- Intellignce system capable of self-monitoring and analysis.
   3. Efficency Traffic Managment :- Reduced violation and better compliance.
